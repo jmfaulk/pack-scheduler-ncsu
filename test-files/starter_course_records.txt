@@ -1,0 +1,9 @@
+CSC116,Intro to Programming - Java,001,3,null,10,MW,0910,1100
+CSC116,Intro to Programming - Java,002,3,null,10,MW,1120,1310
+CSC116,Intro to Programming - Java,003,3,null,10,TH,1120,1310
+CSC116,Intro to Programming - Java,002,3,null,10,TH,0910,1100
+CSC216,Programming Concepts - Java,001,4,null,10,TH,1330,1445
+CSC216,Programming Concepts - Java,002,4,null,10,MW,1330,1445
+CSC216,Programming Concepts - Java,601,4,null,10,A
+CSC226,Discrete Mathematics for Computer Scientists,001,3,null,10,MWF,935,1025
+CSC230,C and Software Tools,001,3,null,10,MW,1145,1300
